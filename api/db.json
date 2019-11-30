@@ -1,26 +1,29 @@
 {
-    "posts":[{
-        "id": 1,
-        "title": "Post One",
-        "body": "SOME cool content",
-        "author": "Himanshu"
+  "posts": [
+    {
+      "title": "Post Three",
+      "body": "SOME cool content",
+      "author": "Post Three",
+      "id": 1
     },
     {
-        "id": 1,
-        "title": "Post One",
-        "body": "SOME cool content",
-        "author": "Himanshu"
+      "id": 1,
+      "title": "Post One",
+      "body": "SOME cool content",
+      "author": "Himanshu"
     },
     {
-        "id": 1,
-        "title": "Post One",
-        "body": "SOME cool content",
-        "author": "Himanshu"
+      "id": 1,
+      "title": "Post One",
+      "body": "SOME cool content",
+      "author": "Himanshu"
     }
-    ],
-    "comments":[{
-        "id": 1,
-        "body": "Some cool comments",
-        "postId": 1
-    }]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Some cool comments",
+      "postId": 1
+    }
+  ]
 }
